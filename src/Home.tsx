@@ -1,5 +1,5 @@
 import React from "react";
 
-export const App = (): React.JSX.Element => {
+export const Home = (): React.JSX.Element => {
   return <p>Hello, World!</p>;
 };
